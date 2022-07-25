@@ -2,7 +2,7 @@
 Com o propósito de praticar e aprimorar meus conhecimentos em DataViz, busquei trazer nesse dashboard um acompanhamento semanal do tráfego da conta demo disponível no Google Analytics.
 
 Este report é composto por (Em ordem de leitura):
-- Dois filtros seletores, sendo um de dispositivo onde é possivel alterar entre Mobile, Desktop, Tablet ou as três opções somadas. O segundo filtro é o de período, que está previamente configurado para que seja analisado os últimos 7 (desconsiderando hoje) e comparado aos 7 dias anteriores.
+Dois filtros seletores, sendo um de dispositivo onde é possivel alterar entre Mobile, Desktop, Tablet ou as três opções somadas. O segundo filtro é o de período, que está previamente configurado para que seja analisado os últimos 7 (desconsiderando hoje) e comparado aos 7 dias anteriores.
 
 Uma vez definido o período e dispositivo, o Dashboard nos apresenta um gráfico de linha temporal exibindo o evolutivo do total de sessões no site, assim como a taxa geral de rejeição.
 
